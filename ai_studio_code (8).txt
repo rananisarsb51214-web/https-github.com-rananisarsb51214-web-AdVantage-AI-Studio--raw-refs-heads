@@ -1,0 +1,28 @@
+‎Skip to main content
+‎Gemini 2.5 Flash
+‎Chat prompt
+‎Model response
+‎ThinkingThoughts
+‎(experimental)
+‎Auto
+‎Expand to view model thoughts
+‎
+‎chevron_right
+‎The Gemini API has seen several significant updates recently. Here are three prominent announcements, their importance, and suggested use cases:
+‎
+‎1.  **URL context tool to general availability (GA)** (August 18, 2025):[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fai.google.dev%2Fgemini-api%2Fdocs%2Fchangelog)] This tool allows users to provide URLs as additional context to prompts.
+‎    *   **Importance:** This is crucial for grounding the model's responses with up-to-date and specific information from the web. It significantly reduces hallucinations and enables the model to act as a more effective research assistant.
+‎    *   **Use case:** A developer building a news summarization application could use the URL context tool to feed articles directly to the Gemini API, ensuring the summaries are accurate and reflect the latest information from the provided sources.
+‎
+‎2.  **Imagen 4 Ultra, Standard and Fast models released as generally available (GA)** (August 14, 2025):[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fai.google.dev%2Fgemini-api%2Fdocs%2Fchangelog)] These models are for image generation.
+‎    *   **Importance:** The general availability of Imagen 4 models signifies a mature and stable offering for high-quality image generation. The different versions (Ultra, Standard, Fast) cater to various needs, balancing quality, speed, and computational cost.
+‎    *   **Use case:** A marketing team could use Imagen 4 Ultra to quickly generate high-resolution images for advertising campaigns, or a game developer could use Imagen 4 Fast to rapidly create multiple concept art variations for their game assets.
+‎
+‎3.  **Launched image-to-video generation for the Veo 3 Preview model** (July 31, 2025):[[1](https://www.google.com/url?sa=E&q=https%3A%2F%2Fai.google.dev%2Fgemini-api%2Fdocs%2Fchangelog)] This allows for the creation of video from images.
+‎    *   **Importance:** The introduction of image-to-video generation with Veo 3 Preview marks a significant step towards more dynamic and versatile content creation. It enables users to transform static images into engaging video content, opening up new possibilities for creative expression.
+‎    *   **Use case:** A social media content creator could use this feature to turn a series of still photographs into short, animated videos for their posts, or an educator could convert diagrams and illustrations into simple explanatory video clips.
+‎Sources
+‎help
+‎Release notes |  AIzaSyDs2VjhmFzZgrIi3uibGxjMoahWI_rkCnY| Google AI for Developers
+‎Start typing a prompt
+‎
