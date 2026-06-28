@@ -1,5 +1,4 @@
-# Rana Nisar - Portfolio Website
-Generate a professional GitHub README for "Advantage AI Studio".
+# "Advantage AI Studio".
 
 Include:
 
